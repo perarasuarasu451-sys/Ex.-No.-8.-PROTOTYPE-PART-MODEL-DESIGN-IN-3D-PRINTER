@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![alt text](empd.jpeg)
+
+### Name: PERARASU K
+### Register Number: 25004665
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
