@@ -47,7 +47,8 @@
 
 ## Output:
 
-![alt text](empd.jpeg)
+<img width="1379" height="714" alt="Screenshot 2025-12-17 155627" src="https://github.com/user-attachments/assets/6969478e-bf2c-4878-9e38-787d0aa7cb3d" />
+
 
 ### Name: PERARASU K
 ### Register Number: 25004665
